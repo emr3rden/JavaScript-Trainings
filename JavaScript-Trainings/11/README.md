@@ -8,7 +8,7 @@
 
 ---
 
-<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/string-to.js"><h3><samp><b>string-to</b></samp></h3></a>
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/string-to.js">string-to</a></b></samp></h3>
 
 ```
 Included in:
@@ -21,7 +21,7 @@ String to Float
 
 ---
 
-<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/number-to.js"><h3><samp><b>number-to</b></samp></h3></a>
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/number-to.js">number-to</a></b></samp></h3>
 
 ```
 Included in:
@@ -34,7 +34,7 @@ Number to Float
 
 ---
 
-<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/boolean-to.js"><h3><samp><b>boolean-to</b></samp></h3></a>
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/boolean-to.js">boolean-to</a></b></samp></h3>
 
 ```
 Included in:
@@ -47,7 +47,7 @@ Boolean to Float
 
 ---
 
-<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/float-to.js"><h3><samp><b>float-to</b></samp></h3></a>
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/float-to.js">float-to</a></b></samp></h3>
 
 ```
 Included in:
@@ -57,5 +57,3 @@ Float to Number
 Float to Boolean
 
 ```
-
----
