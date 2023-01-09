@@ -1,31 +1,61 @@
 # **Subject:** JavaScript Type Conversion
 
-#### **Title:** String/Number/Float/Boolean
+#### **Title:** String/Number/Boolean/Float
 
 #### **Description:** Change the Data Type of Variables
 
 #### **Additional/Extra:**
 
-<hr>
+---
+
+<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/string-to.js"><h3><samp><b>string-to</b></samp></h3></a>
 
 ```
 Included in:
 
-// String to Number // - line - 7 -
-// Number to String // - line - 46 -
+String to Number
+String to Boolean
+String to Float
 
-// Number to Boolean // - line - 82 -
-// Boolean to Number // - line - 108 -
-
-// String to Boolean // - line - 144 -
-// Boolean to String // - line - 170 -
-
-///////////////////////////
-
-// String to Float // - line - 206 -
-// Float to String // - line - 245 -
-// Number to Float // - line - 281 -
-// Float to Number // - line - 307 -
-// Float to Boolean // - line - 332 -
-// Boolean to Float // - line - 358 -
 ```
+
+---
+
+<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/number-to.js"><h3><samp><b>number-to</b></samp></h3></a>
+
+```
+Included in:
+
+Number to String
+Number to Boolean
+Number to Float
+
+```
+
+---
+
+<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/boolean-to.js"><h3><samp><b>boolean-to</b></samp></h3></a>
+
+```
+Included in:
+
+Boolean to String
+Boolean to Number
+Boolean to Float
+
+```
+
+---
+
+<a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11/float-to.js"><h3><samp><b>float-to</b></samp></h3></a>
+
+```
+Included in:
+
+Float to String
+Float to Number
+Float to Boolean
+
+```
+
+---
