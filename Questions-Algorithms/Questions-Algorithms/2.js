@@ -3,6 +3,6 @@
 let num1 = "10";
 let num2 = 10;
 
-console.log(num1 === num2); // false
+console.log(num1 === num2); // output: false
 
-console.log("10" === 10); // false
+console.log("10" === 10); // output: false
