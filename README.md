@@ -2,28 +2,24 @@
 
 <h1>JavaScript-Trainings</h1>
 
-<p>This repo is built on JavaScript. Contains educational, instructional and informative resources.</p>
+**<p>This repo is built on JavaScript.</p>**
 
-**<p>Don't forget to review and star the repo to support!</p>**
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/Educational-Instructive/">---> Contains educational, instructional and informative resources. <---</a></b></samp></h3>
 
-<div align="center"><hr width="75%"></div>
-
-<h3>Table of Educational Contents</h3>
-
-</div>
+<h3><samp><b><a href="https://github.com/emr3rden/JavaScript-Trainings/tree/main/Questions-Algorithms/">---> It also includes work on extra questions and algorithms. <---</a></b></samp></h3>
 
 <div align="center"><hr width="50%"></div>
 
-|      | Subject                        | Title                                                                                                                        | Description                                           | Additional/Extra                        |
-| :--- | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :-------------------------------------- |
-| `1`  | JavaScript **Output**          | **[console.log](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/1)**                         | Using "console.log"                                   | w/ Variables + Template Literals        |
-| `2`  | JavaScript **Output**          | **[console.log](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/2)**                         | Usage of "console.log Styling"                        | w/ Variables + Template Literals        |
-| `3`  | JavaScript **Output**          | **[console.log](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/3)**                         | Usage of "Arithmetic Operations"                      | w/ Variables + Concatenation Operations |
-| `4`  | JavaScript **Output**          | **[console.log](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/4)**                         | Usage of "typeof"                                     | w/ Variables                            |
-| `5`  | JavaScript **Variables**       | **[let](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/5)**                                 | JavaScript "let" Variable                             |                                         |
-| `6`  | JavaScript **Variables**       | **[let](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/6)**                                 | JavaScript "let" Variable                             | Hoisting, Block Scope                   |
-| `7`  | JavaScript **Variables**       | **[const](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/7)**                               | JavaScript "const" Variable                           |                                         |
-| `8`  | JavaScript **Variables**       | **[const](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/8)**                               | JavaScript "const" Variable                           | Hoisting, Block Scope                   |
-| `9`  | JavaScript **Variables**       | **[const](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/9)**                               | What you can and cannot do with the "const" Variables |                                         |
-| `10` | JavaScript **Data Types**      | **[Primitive/Non-Primitive Data Types](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/10)** | Detailed properties of Data Types                     |                                         |
-| `11` | JavaScript **Type Conversion** | **[String/Number/Boolean/Float](https://github.com/emr3rden/JavaScript-Trainings/tree/main/JavaScript-Trainings/11)**        | Change the Data Type of Variables                     |                                         |
+**<h4>Don't forget to review and star the repo to support!</h4>**
+
+<div align="center"><hr width="75%"></div>
+
+<h4>My accounts on social networks:</h4>
+
+Twitter: <a href="https://twitter.com/emr3rden">@emr3rden</a><br>
+Instagram: <a href="https://www.instagram.com/emr3rden/">@emr3rden</a><br>
+Codepen: <a href="https://codepen.io/emr3rden">@emr3rden</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/emr3rden/">@emr3rden</a><br>
+Website: <a href="https://emr3rden.github.io/">emr3rden.github.io</a>
+
+</div>
