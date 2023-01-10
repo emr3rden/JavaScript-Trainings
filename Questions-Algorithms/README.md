@@ -1,0 +1,11 @@
+<div align="center">
+
+<h1>Table of "Questions-Algorithms" Contents</h1>
+
+<br>
+
+</div>
+
+|     | Questions-Algorithms                                                                                                                                                                                                                                                                          | Additional/Extra                   |
+| :-- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
+| `1` | **[Declare firstName, lastName, country, city, age, isMarried, year variable and assign value to it and use the typeof operator with console.log to check different data types.](https://github.com/emr3rden/JavaScript-Trainings/tree/main/Questions-Algorithms/Questions-Algorithms/1.js)** | w/ Variables - console.log(typeof) |
