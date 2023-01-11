@@ -3,6 +3,6 @@
 let py = "Python";
 let jr = "Jargon";
 
-console.log(py.length, jr.length); // 6 6
+console.log(py.length, jr.length); // output: 6 6
 
-console.log(py.length === jr.length); // true
+console.log(py.length === jr.length); // output: true
