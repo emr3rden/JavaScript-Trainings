@@ -113,3 +113,16 @@ let userThree = {
 };
 let userFour = userThree;
 console.log(userThree == userFour); // Output: true
+
+//
+
+const Emre = {
+  id: 1,
+  name: "Emre",
+};
+
+const EmreClone = Emre;
+
+EmreClone.surname = "Erden";
+
+console.log(Emre); // Output: {id: 1, name: "Emre", surname: "Erden"}
