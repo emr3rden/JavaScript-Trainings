@@ -46,3 +46,20 @@ console.log("milk".length == "meat".length); // output: true
 console.log("milk".length != "meat".length); // output: false
 console.log("tomato".length == "potato".length); // output: true
 console.log("python".length > "dragon".length); // output: false
+
+///////////////
+
+let check1 = 4 > 3;
+console.log(check1); // true
+
+let check2 = !(4 > 3);
+console.log(check2); // false
+
+//
+
+let isLightOn = true;
+let isLightOff = !isLightOn;
+console.log(isLightOff); // false
+
+let isMarried = !false;
+console.log(isMarried); // true
